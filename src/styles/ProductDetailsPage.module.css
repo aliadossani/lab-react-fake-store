@@ -1,0 +1,12 @@
+.imageContainer {
+    width: 100px;
+    margin: 10px;
+}
+
+.categoryContainer {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    width: fit-content;
+}

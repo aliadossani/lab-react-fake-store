@@ -1,0 +1,23 @@
+.ProductListPage {
+    margin: 10px;
+    padding: 0;
+
+}
+
+.imageContainer {
+    border: 1px solid black;
+    width: 100px;
+    padding: 5px;
+    background-color: white;
+}
+
+.productList {
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    margin: 10px;
+    flex-direction: row;
+    padding: 10px;
+    align-items: center;
+    height: 160px;
+}
